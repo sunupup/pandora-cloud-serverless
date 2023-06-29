@@ -15,6 +15,7 @@
     }
   ],
   "env": {
+    "openai.api_base"= "https://openai.api2d.net/v1"
     "PANDORA_SERVER_LISTEN": "false"
   }
 }
